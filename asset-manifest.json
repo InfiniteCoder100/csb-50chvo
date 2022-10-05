@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://infinitecoder100.github.io/csb-50chvo/static/css/main.6829d539.chunk.css",
+    "main.js": "https://infinitecoder100.github.io/csb-50chvo/static/js/main.9ee00d7c.chunk.js",
+    "main.js.map": "https://infinitecoder100.github.io/csb-50chvo/static/js/main.9ee00d7c.chunk.js.map",
+    "runtime-main.js": "https://infinitecoder100.github.io/csb-50chvo/static/js/runtime-main.6946c41a.js",
+    "runtime-main.js.map": "https://infinitecoder100.github.io/csb-50chvo/static/js/runtime-main.6946c41a.js.map",
+    "static/js/2.88098bea.chunk.js": "https://infinitecoder100.github.io/csb-50chvo/static/js/2.88098bea.chunk.js",
+    "static/js/2.88098bea.chunk.js.map": "https://infinitecoder100.github.io/csb-50chvo/static/js/2.88098bea.chunk.js.map",
+    "index.html": "https://infinitecoder100.github.io/csb-50chvo/index.html",
+    "static/css/main.6829d539.chunk.css.map": "https://infinitecoder100.github.io/csb-50chvo/static/css/main.6829d539.chunk.css.map",
+    "static/js/2.88098bea.chunk.js.LICENSE.txt": "https://infinitecoder100.github.io/csb-50chvo/static/js/2.88098bea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6946c41a.js",
+    "static/js/2.88098bea.chunk.js",
+    "static/css/main.6829d539.chunk.css",
+    "static/js/main.9ee00d7c.chunk.js"
+  ]
+}
